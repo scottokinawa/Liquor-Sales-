@@ -1,7 +1,7 @@
 # Liquor-Sales-
 Liquor Sales in Iowa 
 
-I wanted to look through Iowa liquor data and figure out if I could predict where to set a profitable stores. 
+I wanted to look through Iowa liquor data and figure out if I could predict where to set profitable stores. 
 
 I will try and create a model that can make this prediction for us.
 
