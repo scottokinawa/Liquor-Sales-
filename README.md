@@ -1,4 +1,5 @@
 # Liquor-Sales-
+[See Code](https://github.com/scottokinawa/Liquor-Sales-/blob/master/Iowa%20Liquor%20Sales%20.ipynb)
 Liquor Sales in Iowa 
 
 I wanted to look through Iowa liquor data and figure out if I could predict where to set profitable stores. 
